@@ -29,7 +29,7 @@ const Product = (props) => {
         >
           {" "}
           <FontAwesomeIcon icon={faBook} />
-          Enroll Now
+          Enroll Now!
         </button>
       </div>
     </div>
